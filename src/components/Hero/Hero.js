@@ -12,9 +12,9 @@ const Hero = (props) => (
         Austin Chabaud
       </SectionTitle>
       <SectionText>
-        Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs Lorem is pirs 
+        Software Engineer with experience in full stack web application development. I design and develop beautifully simple things and I love what I do. 
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://github.com/austinchabaud'}>My GitHub</Button>
     </LeftSection>
   </Section>
 );
