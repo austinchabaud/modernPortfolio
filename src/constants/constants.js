@@ -1,21 +1,12 @@
 export const projects = [
   {
-    title: 'Chat Vault',
-    description: "Using React, Node.js, Express, MongoDB, & GraphQL is a social media application that allows users to create a profile post, like and comment.",
-      image: '/images/chatvault.png',
-      tags: ['Mongo', 'Express', 'React', 'Node', 'GraphQL'],
-    source: 'https://chat-vault.netlify.app/',
-    visit: 'https://github.com/austinchabaud/ChatVault',
-    id: 0,
-  },
-  {
     title: 'Kindess Challenge',
     description:"It is a community driven platform based on the crowdfunding information principle. It is built in React while incorporating the Google Maps api and Styled Components for styling. ",
     image: '/images/kindness-img.png',
     tags: ['React', 'JavaScript'],
     source: 'https://daniellimhong.github.io/kindness-challenge',
     visit: 'https://github.com/austinchabaud/kindness-challenge/',
-    id: 1,
+    id: 0,
   },
   {
     title: 'GitHub Finder App',
@@ -24,7 +15,7 @@ export const projects = [
       tags: ['React', 'GitHub API'],
     source: 'https://hardcore-borg-17bb74.netlify.app/',
     visit: 'https://github.com/austinchabaud/githubsearch',
-    id: 2,
+    id: 1,
   },
 ];
 
