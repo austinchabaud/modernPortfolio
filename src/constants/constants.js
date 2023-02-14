@@ -15,7 +15,7 @@ export const projects = [
 			'This is a React application using the Github API to search for users in the Github database.',
 		image: '/images/githubfind.png',
 		tags: ['React', 'GitHub API'],
-		source: 'https://hardcore-borg-17bb74.netlify.app/',
+		source: 'https://github-react-application.netlify.app/',
 		visit: 'https://github.com/austinchabaud/githubsearch',
 		id: 1,
 	},
@@ -24,9 +24,9 @@ export const projects = [
 		description:
 			'This is a countdown timer for the 2023-2024 Alabama Hunting Season using React.',
 		image: '/images/huntingcountdown.png',
-		tags: ['React', 'GitHub API'],
-		source: 'https://hardcore-borg-17bb74.netlify.app/',
-		visit: 'https://github.com/austinchabaud/githubsearch',
+		tags: ['React', 'Javascript', 'CSS'],
+		source: 'https://huntingseasoncountdown.netlify.app/',
+		visit: 'https://github.com/austinchabaud/huntingCountdown',
 		id: 2,
 	},
 ];
