@@ -24,7 +24,7 @@ export const projects = [
 		description:
 			'This is a countdown timer for the 2023-2024 Alabama Hunting Season using React.',
 		image: '/images/huntingcountdown.png',
-		tags: ['React', 'Javascript', 'CSS'],
+		tags: ['React', 'Javascript', 'Firebase'],
 		source: 'https://huntingseasoncountdown.netlify.app/',
 		visit: 'https://github.com/austinchabaud/huntingCountdown',
 		id: 2,
