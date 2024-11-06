@@ -1,6 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact } from 'react-icons/di';
-// import { AiOutlineOpenAI } from "react-icons/ai";
+import { DiFirebase, DiReact, DiJekyllSmall } from 'react-icons/di';
 
 import {
 	Section,
@@ -43,7 +42,7 @@ const Technologies = () => (
 				</ListContainer>
 			</ListItem>
 			<ListItem>
-				// <AiOutlineOpenAI size='3rem' />
+				<DiJekyllSmall size='3rem' />
 				<ListContainer>
 					<ListTitle>AI/Automation</ListTitle>
 					<ListParagraph>
