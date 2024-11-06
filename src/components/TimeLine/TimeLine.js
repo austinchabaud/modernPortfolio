@@ -67,11 +67,8 @@ const Timeline = () => {
 		<Section id='about'>
 			<SectionTitle>About Me</SectionTitle>
 			<SectionText>
-				Dedicated and efficient full stack developer with 5+ years of experience
-				in full stack web application development, RESTful services, and
-				databases. I design and develop beautifully simple things and I love
-				what I do. Expert at working in collaboration with teams in the
-				execution and development of analytical projects.
+				I’m a dedicated software engineer with over 5 years of experience specializing in full-stack development, AI integration, and system automation. My focus is on helping clients streamline their workflows and enhance productivity through advanced automation solutions using tools like Make and n8n. Passionate about crafting clean, efficient code, I build applications that are as functional as they are user-friendly. 
+				I thrive in collaborative environments, working alongside teams to bring analytical projects to life and solve complex problems with innovative, scalable solutions.
 			</SectionText>
 			<CarouselContainer ref={carouselRef} onScroll={handleScroll}>
 				<>
