@@ -1,5 +1,7 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiJekyllSmall } from 'react-icons/di';
+import { DiFirebase, DiReact } from 'react-icons/di';
+import { SiN8N } from "react-icons/si";
+
 
 import {
 	Section,
@@ -42,7 +44,7 @@ const Technologies = () => (
 				</ListContainer>
 			</ListItem>
 			<ListItem>
-				<DiJekyllSmall size='3rem' />
+				<SiN8N size='3rem' />
 				<ListContainer>
 					<ListTitle>AI/Automation</ListTitle>
 					<ListParagraph>
