@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, AiOutlineOpenAI } from 'react-icons/di';
 import {
 	Section,
 	SectionDivider,
@@ -19,8 +19,7 @@ const Technologies = () => (
 		<SectionDivider />
 		<SectionTitle> Technologies </SectionTitle>
 		<SectionText>
-			I've worked with a range of Technologies in the web dev world. From
-			back-end to design.
+			I bring expertise across a range of technologies in web development and automation, from back-end engineering to front-end design and innovative automation solutions.
 		</SectionText>
 		<List>
 			<ListItem>
@@ -28,8 +27,7 @@ const Technologies = () => (
 				<ListContainer>
 					<ListTitle>Front-End</ListTitle>
 					<ListParagraph>
-						Experience with <br />
-						JavaScript, React.js, Angular, Redux
+						Proficient with JavaScript frameworks and libraries, including React.js, Angular, and Redux, to create responsive and dynamic interfaces.
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
@@ -38,19 +36,16 @@ const Technologies = () => (
 				<ListContainer>
 					<ListTitle>Back-End</ListTitle>
 					<ListParagraph>
-						Experience with <br />
-						Node, MongoDB, PostgreSQL, noSQL, MySQL, Azure, AWS, Express
+						Skilled in Node.js, MongoDB, PostgreSQL, MySQL, and noSQL databases, with cloud experience on Azure and AWS, and frameworks like Express for robust server-side solutions.
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
 			<ListItem>
-				<DiZend size='3rem' />
+				<AiOutlineOpenAI size='3rem' />
 				<ListContainer>
-					<ListTitle>UI/UX</ListTitle>
+					<ListTitle>AI/Automation</ListTitle>
 					<ListParagraph>
-						Experience with <br />
-						Figma, CSS, Styled Components, Bootstrap, MaterialUI, PostCss, Sass,
-						Scss, Adobe
+						Focused on using cutting-edge tools like Make and n8n, enabling advanced system automation and workflow optimization.
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
