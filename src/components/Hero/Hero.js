@@ -14,7 +14,9 @@ const Hero = (props) => (
 As a software engineer, I am passionate about harnessing the power of AI to streamline your workflows. 
 Whether you are looking to optomize existing systems or innovate through automation, I'm here to turn your vision into reality.
       </SectionText>
-      <Button onClick={() => window.location = 'https://calendly.com/austinchabaud/strategy-session'}>Book a Call</Button>
+      <Button onClick={() => window.open('https://calendly.com/austinchabaud/strategy-session', '_blank')}>
+        Book a Call
+      </Button>
     </LeftSection>
   </Section>
 );
