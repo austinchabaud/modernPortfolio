@@ -2,7 +2,7 @@ export const projects = [
 	{
 		title: 'Email Automation With AI',
 		description:
-			'Developed an intelligent email automation solution that leverages artificial intelligence to streamline communication workflows. This project automates personalized email sequences, optimizes sending times, and analyzes engagement to refine messaging strategies. By integrating AI-driven insights, the solution enhances efficiency and ensures impactful, data-informed outreach at scale.',
+			'Developed an intelligent email automation solution that leverages AI to streamline communication workflows. This project automates personalized email sequences, creates drafts based on incoming emails, and schedules meetings in Google calendar.',
 		image: '/images/emailautomation.png',
 		tags: ['OpenAI', 'n8n', 'JavaScript'],
 		id: 0,
