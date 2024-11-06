@@ -49,6 +49,14 @@ export const TimeLineData = [
 	{ year: 2021, text: 'Worked for Hexagon as a Software Developer.' },
 	{
 		year: 2022,
-		text: 'Constantly improving my skills and now working as a Software Engineer I for Vertafore!',
+		text: 'Constantly improving my skills and now working as a Software Engineer for Vertafore',
 	},
+	{
+		year: 2023,
+		text: 'Began using AI to automate workflows at my job as well as freelancing my services',
+	},
+	{
+		year: 2024,
+		text: 'Founded WorkflowsAI',
+	}
 ];
