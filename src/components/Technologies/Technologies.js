@@ -1,5 +1,7 @@
 import React from 'react';
-import { DiFirebase, DiReact, AiOutlineOpenAI } from 'react-icons/di';
+import { DiFirebase, DiReact } from 'react-icons/di';
+import { AiOutlineOpenAI } from "react-icons/ai";
+
 import {
 	Section,
 	SectionDivider,
