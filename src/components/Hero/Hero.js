@@ -8,7 +8,7 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Helping you automate your day to day with code.
+        Helping you automate your day to day with code and AI.
       </SectionTitle>
       <SectionText>
 As a software engineer, I am passionate about harnessing the power of AI to streamline your workflows. 
