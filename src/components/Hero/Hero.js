@@ -8,11 +8,11 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hello World! I am <br />
-        Austin Chabaud
+        Helping you automate your day to day with code.
       </SectionTitle>
       <SectionText>
-        Software Engineer with experience in full stack web application development. I design and develop beautifully simple things and I love what I do. 
+As a software engineer, I am passionate about harnessing the power of AI to streamline your workflows. 
+Whether you are looking to optomize existing systems or innovate through automation, I'm here to turn your vision into reality.
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/austinchabaud'}>My GitHub</Button>
     </LeftSection>
