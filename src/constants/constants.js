@@ -1,12 +1,10 @@
 export const projects = [
 	{
-		title: 'Kindess Challenge',
+		title: 'Email Automation With AI',
 		description:
-			'It is a community driven platform based on the crowdfunding information principle. It is built in React while incorporating the Google Maps api and Styled Components for styling. ',
+			'Developed an intelligent email automation solution that leverages artificial intelligence to streamline communication workflows. This project automates personalized email sequences, optimizes sending times, and analyzes engagement to refine messaging strategies. By integrating AI-driven insights, the solution enhances efficiency and ensures impactful, data-informed outreach at scale.',
 		image: '/images/kindness-img.png',
-		tags: ['React', 'JavaScript'],
-		source: 'https://daniellimhong.github.io/kindness-challenge',
-		visit: 'https://github.com/austinchabaud/kindness-challenge/',
+		tags: ['OpenAI', 'n8n', 'JavaScript'],
 		id: 0,
 	},
 	{
@@ -17,17 +15,7 @@ export const projects = [
 		tags: ['React', 'GitHub API'],
 		source: 'https://github-react-application.netlify.app/',
 		visit: 'https://github.com/austinchabaud/githubsearch',
-		id: 1,
-	},
-	{
-		title: 'Hunting Season Countdown',
-		description:
-			'This is a countdown timer for the 2023-2024 Alabama Hunting Season using React.',
-		image: '/images/huntingcountdown.png',
-		tags: ['React', 'Javascript', 'Firebase'],
-		source: 'https://huntingseasoncountdown.netlify.app/',
-		visit: 'https://github.com/austinchabaud/huntingCountdown',
-		id: 2,
+		id: 0,
 	},
 ];
 
