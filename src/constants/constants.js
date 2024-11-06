@@ -15,7 +15,7 @@ export const projects = [
 		tags: ['React', 'GitHub API'],
 		source: 'https://github-react-application.netlify.app/',
 		visit: 'https://github.com/austinchabaud/githubsearch',
-		id: 0,
+		id: 1,
 	},
 ];
 
